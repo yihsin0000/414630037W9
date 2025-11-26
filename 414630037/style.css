@@ -1,0 +1,47 @@
+@charset "utf-8";
+.container header {
+    background-color: #C59CD5;
+}
+.container header nav {
+    background-color: #99A9C8;
+}
+.container #hero {
+    border-collapse: collapse;
+    background-color: #D0CFB2;
+
+
+
+    background-image: url(images/
+%E4%B8%8B%E8%BC%89%20(1).jpg);
+    background-image: url(images/
+%E4%B8%8B%E8%BC%89%20(3).jpg);
+    background-image: url(images/%E4%B8%8B%E8%BC%89.jpg);
+}
+footer .footer_column h3 {
+    color: #303030;
+}
+.container .banner .parallax {
+}
+.container .banner {
+    background-color: #A9AEC8;
+    background-image: url(images/%E4%B8%8B%E8%BC%89.jpg);
+}
+.container .copyright {
+    background-color: #D0A5A6;
+
+
+    background-image: url(images/
+%E4%B8%8B%E8%BC%89%20(1).jpg);
+}
+
+
+
+
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,126,126,0.62) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,126,126,0.62) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,126,126,0.62) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(248,126,126,0.62) 100%);
+}
+.container .banner .parallax {
+}
